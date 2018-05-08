@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MMAlbumTableViewDemo' target in the 'MMAlbumTableViewDemo' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
